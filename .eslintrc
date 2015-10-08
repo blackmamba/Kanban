@@ -1,0 +1,10 @@
+{
+    "linters": {
+        "eslint": {
+            "args": [
+                "--ignore-path", "~/eslint_ignore",
+                "--rulesdir", "~/rules"
+            ]
+        }
+    }
+}
